@@ -39,23 +39,23 @@ languages:
       languageAltTitle: Portuguese-Brazil
       weight: 2
       title: Vinícius Komninakis
-      profileMode:
-            enabled: true
-            title: Quem eu sou?
-            imageUrl: "#"
-            imageTitle: my image
-            imageWidth: 120
-            imageHeight: 120
-            subtitle: >
-                - Hello, i am 22 years old, graduated in Analysis and systems development and a MBA degreed in Software Engineering.
-                - Today i'm working as Web Developer, with great focus and interest in NodeJs (Javascript/Typescript) 
-                  front-end applications, using ReactJs, GraphQL, NextJs, Jest and some Python (Apis and data engineering with pyspark and jupyter).
-                - For future, in technology i'm studying Rust for a typed LP, more about k8s and infrastructure, Functional programming (without a specific language) and contents of Computer Science.
-            buttons:
-                - name: Blog
-                  url: posts
-                - name: Tags
-                  url: tags
+      # homeinfoMode:
+      #       enabled: true
+      #       title: Quem eu sou?
+      #       imageUrl: "#"
+      #       imageTitle: my image
+      #       imageWidth: 120
+      #       imageHeight: 120
+      #       subtitle: >
+      #           - Hello, i am 22 years old, graduated in Analysis and systems development and a MBA degreed in Software Engineering.
+      #           - Today i'm working as Web Developer, with great focus and interest in NodeJs (Javascript/Typescript) 
+      #             front-end applications, using ReactJs, GraphQL, NextJs, Jest and some Python (Apis and data engineering with pyspark and jupyter).
+      #           - For future, in technology i'm studying Rust for a typed LP, more about k8s and infrastructure, Functional programming (without a specific language) and contents of Computer Science.
+      #       buttons:
+      #           - name: Blog
+      #             url: posts
+      #           - name: Tags
+      #             url: tags
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
